@@ -1,0 +1,12 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Bookmark Grid</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+  <script src="popup.js"></script>
+</head>
+<body>
+  <div id="bookmarkGrid" class="grid-container"></div>
+</body>
+</html>
